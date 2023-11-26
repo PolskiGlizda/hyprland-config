@@ -2,6 +2,8 @@
 
 Basic Hyprland config focused on simplicity and easy of use.
 
+![screenshot](https://github.com/PolskiGlizda/hyprland-config/blob/master/2023-11-26_040818.png)
+
 ## Requirements
 
  - [Waybar](https://github.com/Alexays/Waybar)
