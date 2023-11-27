@@ -42,7 +42,7 @@ $mainMod = SUPER
 | $mainMod + V | Make active window floating |
 | $mainMod + P | Activate pseudotiling |
 | $mainMod + J | Toggle Split |
-| $mainMod + T | Launcg browser(Brave by default) |
+| $mainMod + T | Launcg browser(Firefox by default) |
 | $mainMod + ARROWS | Move focus |
 | $mainMod + [0-9] | Switch workspaces |
 | $mainMod + SHIFT + [0-9] | Move active window to another workspace |
