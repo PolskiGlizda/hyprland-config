@@ -61,4 +61,4 @@ $mainMod = SUPER
 | Calculator (function key) | Launch calcuator(speedcrunch by default) |
 
 ## For learning how to configure
-If you'd like to expand this config or personalize it I highly recommend [hyprlan](https://wiki.hyprland.org/)
+If you'd like to expand this config or personalize it I highly recommend [hyprland wiki](https://wiki.hyprland.org/)
