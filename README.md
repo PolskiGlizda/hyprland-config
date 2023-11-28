@@ -49,6 +49,16 @@ $mainMod = SUPER
 | $mainMod + SCROLL | Scroll through existing worspaces |
 | $mainMod + LMB | Move windows by dragging |
 | $mainMod + RMB | Resize windows by dragging |
+| PrtSc | Take a screenshot |
+| Volume up (function key) | Increase volume on default sink by 5% |
+| Volume down (function key) | Decrease volume on default sink by 5% |
+| Audio mute | Toggle mute on default sink |
+| Brightness up (function key) | Increase brightness by 10% |
+| Brightness down (function key) | Decrease brughtness by 10% |
+| Audio play (function key) | Toggle player play/pause |
+| Audio next (function key) | Skip to next track |
+| Audio previous (function key) | Skip to previous track |
+| Calculator (function key) | Launch calcuator(speedcrunch by default) |
 
 ## For learning how to configure
 If you'd like to expand this config or personalize it I highly recommend [hyprlan](https://wiki.hyprland.org/)
